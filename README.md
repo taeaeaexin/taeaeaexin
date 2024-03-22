@@ -9,4 +9,6 @@
 <div align="center">
   <a href="https://www.instagram.com/taeaeaexin/" target="_blank"><img src="https://img.shields.io/badge/Instagram-000000?style=flat&logo=instagram&logoColor=FFFFFF"/></a>
   <a href="https://www.youtube.com/channel/UCxinmLb4qqrnwdCYGUsLNTQ" target="_blank"><img src="https://img.shields.io/badge/Youtube-000000?style=flat&logo=youtube&logoColor=FFFFFF"/></a>
+
+  <h6 allign="center">Update 240322</h6>
  </div>
