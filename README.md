@@ -3,8 +3,8 @@
 
 
 <div align=center>
-<h4 align="center">💻 Solved.ac 💻</h4>
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=vitamin1996" alt="Solved.ac Profile">
+<h4 align="center">Solved.ac</h4>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kjk06119" alt="Solved.ac Profile">
   <br>
   <br>
   
