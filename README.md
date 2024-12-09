@@ -1,7 +1,4 @@
-<h3 align="center">===============|공사중|===============</h3>  
-<p align="center">어째선인지 제 리드미가 다 없어졌어요</p>  
-
-<h3 align="center">Profile</h3>  
+<h3 align="center">Protfoile</h3>  
 <p align="center">신입 백엔드 개발자 문태신입니다. <br/>
 운동과 코딩 그리고 고양이를 좋아해요</p> 
 
