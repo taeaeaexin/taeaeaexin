@@ -4,10 +4,10 @@
 
 <h3 align="center">Stacks</h3>
 <p align="center">
+  <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB337?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=Java&logoColor=white"/>
   아직 작성중입니다
 </p>
 
