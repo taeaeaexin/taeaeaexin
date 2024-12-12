@@ -1,6 +1,6 @@
 <h3 align="center">Protfoile</h3>  
 <p align="center">신입 백엔드 개발자 문태신입니다. <br/>
-운동과 코딩 그리고 고양이를 좋아해요</p> 
+운동과 코딩 그리고 고양이를 좋아해요</p><br/> 
 
 <h3 align="center">Stacks</h3>
 <p align="center">
@@ -9,13 +9,13 @@
   <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   아직 작성중입니다
-</p>
+</p><br/>
 
 <h3 align="center">Algorithm Rank</h3>
 <div align="center">
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjk06119)](https://solved.ac/kjk06119/)
-</div>
+</div><br/>
 
 <h3 align="center">Github Stats</h3>
 <div align="center">
