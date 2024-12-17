@@ -20,7 +20,8 @@
 
 </p><br/>
 
-<h3 align="center">Algorithm Rank</h3>
+<h3 align="center">Algorithm</h3>
+<p align="center">백준을 잘 안써요</p>
 <div align="center">
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjk06119)](https://solved.ac/kjk06119/)
