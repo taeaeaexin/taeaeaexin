@@ -1,5 +1,5 @@
 <h3 align="center">Protfoile</h3>  
-<p align="center">신입 백엔드 개발자 문태신입니다. <br/>
+<p align="center">웹 백엔드 개발자 문태신입니다. <br/>
 운동과 코딩 그리고 고양이를 좋아해요</p><br/> 
 
 <h3 align="center">Stacks</h3>
