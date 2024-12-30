@@ -1,4 +1,4 @@
-<h3 align="center">Protfoile</h3>  
+<h3 align="center">Profile</h3>  
 <p align="center">웹 백엔드 개발자 문태신입니다. <br/>
 운동과 코딩 그리고 고양이를 좋아해요</p><br/> 
 
