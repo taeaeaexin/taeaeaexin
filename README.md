@@ -13,7 +13,7 @@
 |Experience|Detail|Period|
 |---|---|---|
 | **LG유플러스 SW아카데미 유레카 2기**  | 백엔드 과정 진행 | 2025.01 ~ |
-| 정보통신대학교 연합 공인 E-Sports 대회 TFT | 참가 | 2024.10 |
+| 정보통신대학교 연합 공인 E-Sports 대회 (TFT 부문) | 참가 | 2024.10 |
 | 고려대학교 프로그래밍 경시대회 (KCPC) Open Contest | 참가 | 2024.10 |
 | KAIST 14TH ICPC Mock Competition Open Contest | 참가 | 2024.10 |
 | 코멘토 직무 부트캠프 | Django를 이용한 실무 과정 수료 | 2024.09 ~ 24.10 |
