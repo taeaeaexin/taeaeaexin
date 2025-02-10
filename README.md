@@ -4,11 +4,13 @@
 <a href=https://blog.naver.com/gym_developer> <img src="https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Naver&logoColor=white&link=https://blog.naver.com/gym_developer"></a>
 <a href=https://www.linkedin.com/in/%ED%83%9C%EC%8B%A0-%EB%AC%B8-b0483a333/> <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=inspire&logoColor=white&link=https://www.linkedin.com/in/%ED%83%9C%EC%8B%A0-%EB%AC%B8-b0483a333/"></a>
 <a href=mailto:kjk06119@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:kjk06119@gmail.com"></a>
+
 </br>
 
 ## 👤 About Me
 끊임없이 노력하고 성장하는 개발자 **문태신**입니다.  
 **도전**은 저의 삶입니다.
+
 </br>
 
 ## 💻 Experience
@@ -26,6 +28,7 @@
 | 국제 드론해킹방어대회 | 참가 | 2023.11 |
 | 전기철도 연구실 | 문서 작업 및 논문 보조 | 2022.08 ~ 23.08|
 | 국립한밭대학교 | 컴퓨터공학과 | 2018.03 ~ 25.02 |
+
 </br>
 
 ## 🛠️ Stacks
@@ -46,6 +49,7 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>
 </div>
+
 </br>
 
   ## 🏆 Stats
