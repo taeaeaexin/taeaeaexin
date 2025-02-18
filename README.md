@@ -13,10 +13,17 @@
 
 </br>
 
+## 🎓 Education
+|Experience|Detail|Period|
+|---|---|---|
+| **LG유플러스 SW아카데미 유레카 2기** | 백엔드 과정 진행 | 2025.01~ |
+| 국립한밭대학교 | 컴퓨터공학과 | 2018.03 ~ 25.02 |
+
+</br>
+
 ## 💻 Experience
 |Experience|Detail|Period|
 |---|---|---|
-| **LG유플러스 SW아카데미 유레카 2기**  | 백엔드 과정 진행 | 2025.01 ~ |
 | 정보통신대학교 연합 공인 E-Sports 대회 (TFT 부문) | 참가 | 2024.10 |
 | 고려대학교 프로그래밍 경시대회 (KCPC) Open Contest | 참가 | 2024.10 |
 | KAIST 14TH ICPC Mock Competition Open Contest | 참가 | 2024.10 |
@@ -27,7 +34,6 @@
 | 헥테온 세종 사이버보안 경진대회 | 참가 | 2023.11 |
 | 국제 드론해킹방어대회 | 참가 | 2023.11 |
 | 전기철도 연구실 | 문서 작업 및 논문 보조 | 2022.08 ~ 23.08|
-| 국립한밭대학교 | 컴퓨터공학과 | 2018.03 ~ 25.02 |
 
 </br>
 
@@ -51,6 +57,14 @@
 </div>
 
 </br>
+
+## 💳 Certificate
+|Certificate|Detail|Period|
+|---|---|---|
+| 정보처리기사(필기) | 한국산업인력공단 | 2025.02 |
+
+</br>
+
 
   ## 🏆 Stats
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjk06119)](https://solved.ac/kjk06119/) &nbsp;&nbsp;&nbsp; [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taeaeaexin&hide_title=true&show_icons=true&theme=vue)](https://github.com/taeaeaexin/github-readme-stats)
