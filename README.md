@@ -1,12 +1,3 @@
-## 🔗 Link
-<a href=https://furtive-umbrella-4fc.notion.site/Back-End-Developer-Portfolio-d1e877ee46014134b2f45598be4f6bb0> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://furtive-umbrella-4fc.notion.site/Back-End-Developer-Portfolio-d1e877ee46014134b2f45598be4f6bb0"></a>
-<a href=https://gym-developer.tistory.com/> <img src="https://img.shields.io/badge/Tistory-EA4335?style=flat&logo=Tistory&logoColor=white&link=https://gym-developer.tistory.com/"></a>
-<a href=https://blog.naver.com/gym_developer> <img src="https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Naver&logoColor=white&link=https://blog.naver.com/gym_developer"></a>
-<a href=https://www.linkedin.com/in/%ED%83%9C%EC%8B%A0-%EB%AC%B8-b0483a333/> <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=inspire&logoColor=white&link=https://www.linkedin.com/in/%ED%83%9C%EC%8B%A0-%EB%AC%B8-b0483a333/"></a>
-<a href=mailto:kjk06119@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:kjk06119@gmail.com"></a>
-
-</br>
-
 ## 👤 About Me
 끊임없이 노력하고 성장하는 개발자 **문태신**입니다.  
 **도전**은 저의 삶입니다.
@@ -68,3 +59,12 @@
 
   ## 🏆 Stats
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjk06119)](https://solved.ac/kjk06119/) &nbsp;&nbsp;&nbsp; [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taeaeaexin&hide_title=true&show_icons=true&theme=vue)](https://github.com/taeaeaexin/github-readme-stats)
+
+</br>
+
+## 🌐 More About
+<a href=https://furtive-umbrella-4fc.notion.site/Back-End-Developer-Portfolio-d1e877ee46014134b2f45598be4f6bb0> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://furtive-umbrella-4fc.notion.site/Back-End-Developer-Portfolio-d1e877ee46014134b2f45598be4f6bb0"></a>
+<a href=https://gym-developer.tistory.com/> <img src="https://img.shields.io/badge/Tistory-EA4335?style=flat&logo=Tistory&logoColor=white&link=https://gym-developer.tistory.com/"></a>
+<a href=https://blog.naver.com/gym_developer> <img src="https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Naver&logoColor=white&link=https://blog.naver.com/gym_developer"></a>
+<a href=https://www.linkedin.com/in/%ED%83%9C%EC%8B%A0-%EB%AC%B8-b0483a333/> <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=inspire&logoColor=white&link=https://www.linkedin.com/in/%ED%83%9C%EC%8B%A0-%EB%AC%B8-b0483a333/"></a>
+<a href=mailto:kjk06119@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:kjk06119@gmail.com"></a>
