@@ -7,8 +7,8 @@
 ## 🎓 Education
 |Experience|Detail|Period|
 |---|---|---|
-| **LG유플러스 SW아카데미 유레카 2기** | 백엔드 과정 진행 | 2025.01~ |
-| 국립한밭대학교 | 컴퓨터공학과 | 2018.03 ~ 25.02 |
+| **LG유플러스 SW아카데미 유레카 2기** | 백엔드 과정 진행 | 2025.01 ~ 진행 중 |
+| 국립한밭대학교 | - 컴퓨터공학과 | 2018.03 ~ 25.02 |
 
 </br>
 
@@ -29,30 +29,19 @@
 </br>
 
 ## 🛠️ Stacks
-<div align=center>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=coffeescript&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
-  <br/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Azure-0085CA?style=flat-square&logo=academia&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
-  <br/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>
-</div>
+|Category|Stack|
+|---|---|
+|**Backend**| <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=coffeescript&logoColor=white"/></a> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></a> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a> |
+|**DevOps**| <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/></a> <img src="https://img.shields.io/badge/Azure-0085CA?style=flat-square&logo=academia&logoColor=white"/></a> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a> |
+|**Tool**| <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a> |
+
 
 </br>
 
 ## 💳 Certificate
 |Certificate|Detail|Period|
 |---|---|---|
-| 정보처리기사(필기) | 한국산업인력공단 | 2025.02 |
+| **정보처리기사(필기)** | 한국산업인력공단 | 2025.02.15 |
 
 </br>
 
