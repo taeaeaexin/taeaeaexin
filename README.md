@@ -44,7 +44,6 @@
 |**DevOps**| <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/></a> <img src="https://img.shields.io/badge/Azure-0085CA?style=flat-square&logo=academia&logoColor=white"/></a> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a> |
 |**Tool**| <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a> |
 
-
 </br>
 
 ## 💳 Certificate
@@ -54,6 +53,6 @@
 
 </br>
 
-
   ## 🏆 Stats
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjk06119)](https://solved.ac/kjk06119/) &nbsp;&nbsp;&nbsp; [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taeaeaexin&hide_title=true&show_icons=true&theme=vue)](https://github.com/taeaeaexin/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjk06119)](https://solved.ac/kjk06119/) &nbsp;&nbsp;&nbsp; 
+[![Solved.ac Streak](http://mazandi.herokuapp.com/api?handle=kjk06119)](https://solved.ac/kjk06119/)
