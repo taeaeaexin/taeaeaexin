@@ -24,6 +24,7 @@
 ## 💻 Experience
 |Experience|Detail|Period|
 |---|---|---|
+| 2025 신촌지역 대학교 프로그래밍 동아리 연합 겨울 대회 (SUAPC 2025 Winter) Open Contest | 참가 | 2025.02 |
 | 정보통신대학교 연합 공인 E-Sports 대회 (TFT 부문) | 참가 | 2024.10 |
 | 고려대학교 프로그래밍 경시대회 (KCPC) Open Contest | 참가 | 2024.10 |
 | KAIST 14TH ICPC Mock Competition Open Contest | 참가 | 2024.10 |
