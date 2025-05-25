@@ -25,16 +25,12 @@
 ## 💻 Experience
 |Experience|Detail|Period|
 |---|---|---|
-| 2025 신촌지역 대학교 프로그래밍 동아리 연합 겨울 대회 (SUAPC 2025 Winter) Open Contest | 참가 | 2025.02 |
-| 정보통신대학교 연합 공인 E-Sports 대회 (TFT 부문) | 참가 | 2024.10 |
-| 고려대학교 프로그래밍 경시대회 (KCPC) Open Contest | 참가 | 2024.10 |
-| KAIST 14TH ICPC Mock Competition Open Contest | 참가 | 2024.10 |
-| 코멘토 직무 부트캠프 | Django를 이용한 실무 과정 수료 | 2024.09 ~ 24.10 |
-| IT직무 코딩테스트 | Python 코딩테스트 교육과정 수료 | 2024.08 ~ 24.08 |
-| 하계 말레이시아 인턴십 | 말레이시아 UCSI 대학교 인턴십 백엔드 과정 수행 | 2024.08 ~ 24.08 |
-| KT AICE Association | AI역량 교육과정 수료 | 2024.07 ~ 24.07 |
-| 헥테온 세종 사이버보안 경진대회 | 참가 | 2023.11 |
-| 국제 드론해킹방어대회 | 참가 | 2023.11 |
+| 하계 말레이시아 인턴십 | 말레이시아 UCSI 대학교 인턴십 풀스택 과정 수행 | 2024.08 ~ 24.08 |
+| KT AICE Association | AI 역량 대학교육과정 수료 | 2024.07 ~ 24.07 |
+| 파이썬 백엔드 개발 직무부트캠프 | 기획부터 개발까지 Python 백엔드 개발 실무과정 수료 | 2024.09 ~ 24.10 |
+| IT직무 코딩테스트 | Python 모의 코딩테스트 및 IT직무 코딩테스트 과정 수료 | 2024.08 ~ 24.08 |
+| 2024 헥테온 세종 사이버보안 경진대회 | 참가 | 2024.04 |
+| 2023 국제 드론해킹방어대회 | 참가 | 2023.11 |
 | 전기철도 연구실 | 문서 작업 및 논문 보조 | 2022.08 ~ 23.08|
 
 </br>
@@ -42,9 +38,9 @@
 ## 🛠️ Stacks
 |Category|Stack|
 |---|---|
-|**Backend**| <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=coffeescript&logoColor=white"/></a> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></a> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a> |
-|**DevOps**| <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/></a> <img src="https://img.shields.io/badge/Azure-0085CA?style=flat-square&logo=academia&logoColor=white"/></a> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a> |
-|**Tool**| <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a> |
+|**Backend**| <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=coffeescript&logoColor=white"/></a> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></a> |
+|**Database**| <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/></a> |
+|**Tool**| <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a> |
 
 </br>
 
