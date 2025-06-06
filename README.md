@@ -58,6 +58,6 @@
 
 </br>
 
-  ## 🏆 Stats
+  ## 🏆 Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjk06119)](https://solved.ac/kjk06119/) &nbsp;&nbsp;&nbsp; 
 [![Solved.ac Streak](http://mazandi.herokuapp.com/api?handle=kjk06119)](https://solved.ac/kjk06119/)
