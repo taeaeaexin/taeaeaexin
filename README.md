@@ -1,5 +1,5 @@
 ## 🌐 Link
-<a href=https://furtive-umbrella-4fc.notion.site/Back-End-Developer-Portfolio-d1e877ee46014134b2f45598be4f6bb0> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://furtive-umbrella-4fc.notion.site/Back-End-Developer-Portfolio-d1e877ee46014134b2f45598be4f6bb0"></a>
+<a href=https://taesin-portfolio.notion.site/> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://furtive-umbrella-4fc.notion.site/Back-End-Developer-Portfolio-d1e877ee46014134b2f45598be4f6bb0"></a>
 <a href=https://gym-developer.tistory.com/> <img src="https://img.shields.io/badge/Tistory-EA4335?style=flat&logo=Tistory&logoColor=white&link=https://gym-developer.tistory.com/"></a>
 <a href=https://blog.naver.com/gym_developer> <img src="https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Naver&logoColor=white&link=https://blog.naver.com/gym_developer"></a>
 <a href=https://www.linkedin.com/in/%ED%83%9C%EC%8B%A0-%EB%AC%B8-b0483a333/> <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=inspire&logoColor=white&link=https://www.linkedin.com/in/%ED%83%9C%EC%8B%A0-%EB%AC%B8-b0483a333/"></a>
