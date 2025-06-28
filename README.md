@@ -1,9 +1,8 @@
 ## 🌐 Link
-<a href=https://taesin-portfolio.notion.site/> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://furtive-umbrella-4fc.notion.site/Back-End-Developer-Portfolio-d1e877ee46014134b2f45598be4f6bb0"></a>
-<a href=https://gym-developer.tistory.com/> <img src="https://img.shields.io/badge/Tistory-EA4335?style=flat&logo=Tistory&logoColor=white&link=https://gym-developer.tistory.com/"></a>
-<a href=https://blog.naver.com/gym_developer> <img src="https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Naver&logoColor=white&link=https://blog.naver.com/gym_developer"></a>
-<a href=https://www.linkedin.com/in/%ED%83%9C%EC%8B%A0-%EB%AC%B8-b0483a333/> <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=inspire&logoColor=white&link=https://www.linkedin.com/in/%ED%83%9C%EC%8B%A0-%EB%AC%B8-b0483a333/"></a>
-<a href=mailto:kjk06119@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:kjk06119@gmail.com"></a>
+[<img src="https://github.com/user-attachments/assets/bce45b47-75f6-4bdd-a1ca-6bb70377d154" width="55" height="55">](https://taesin-portfolio.notion.site/?source=copy_link) &nbsp;&nbsp;
+[<img src="https://github.com/user-attachments/assets/23da5180-c39b-48f6-8f61-c5a3312dffd2" width="55" height="55">](https://gym-developer.tistory.com/) &nbsp;&nbsp;
+[<img src="https://github.com/user-attachments/assets/94f89e0f-320d-4b5e-bbe3-bce51a82f1f1" width="55" height="55">](https://blog.naver.com/gym_developer) &nbsp;&nbsp;
+[<img src="https://github.com/user-attachments/assets/c19d8436-0333-493f-881d-d1ea3b7c830d" width="55" height="55">](mailto:kjk06119@gmail.com)
 
 </br>
 
@@ -15,10 +14,10 @@
 </br>
 
 ## 📽️ Projects
-|Logo|Project|Detail|
-|---|---|---|
-| <img src="https://github.com/user-attachments/assets/edc8ae3e-82e7-4277-8319-d3ac1766d920" width="50" height="50"> | [Eurekagram](https://github.com/taeaeaexin/eurekagram-user) | 사진과 짧은 글을 통해 서로의 일상을 공유하는 유레카 부트캠프 참여자들만을 위한 비공개 커뮤니티 피드형 SNS |
-| <img src="https://github.com/user-attachments/assets/69e81e5c-2baa-4bc5-8f4d-f95155688f9e" width="50" height="50"> | [Yoplait](https://github.com/ureca-u1moo2) | 통신 서비스 사용 고객을 대상으로 자연어 기반의 채팅을 통해, 소비 성향을 파악하고 요금제를 추천해주는 AI 챗봇 |
+|Project|Detail|
+|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/edc8ae3e-82e7-4277-8319-d3ac1766d920" width="80" height="80"> </br> [Eurekagram](https://github.com/taeaeaexin/eurekagram-user) | 사진과 짧은 글을 통해 서로의 일상을 공유하는 유레카 부트캠프 참여자들만을 위한 비공개 커뮤니티 피드형 SNS |
+| <img src="https://github.com/user-attachments/assets/69e81e5c-2baa-4bc5-8f4d-f95155688f9e" width="80" height="80"> </br> [Yoplait](https://github.com/ureca-u1moo2) | 통신 서비스 사용 고객을 대상으로 자연어 기반의 채팅을 통해, 소비 성향을 파악하고 요금제를 추천해주는 AI 챗봇 |
 
 </br>
 
