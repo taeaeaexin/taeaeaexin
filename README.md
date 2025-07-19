@@ -18,7 +18,7 @@
 |:---:|:---:|
 | <img src="https://github.com/user-attachments/assets/edc8ae3e-82e7-4277-8319-d3ac1766d920" width="80" height="80"> </br> [Eurekagram](https://github.com/taeaeaexin/eurekagram-user) | 사진과 짧은 글을 통해 서로의 일상을 공유하는 유레카 부트캠프 참여자들만을 위한 비공개 커뮤니티 피드형 SNS |
 | <img src="https://github.com/user-attachments/assets/69e81e5c-2baa-4bc5-8f4d-f95155688f9e" width="80" height="80"> </br> [Yoplait](https://github.com/ureca-u1moo2) | 통신 서비스 사용 고객을 대상으로 자연어 기반의 채팅을 통해, 소비성향을 파악하고 요금제를 추천해주는 AI 챗봇 |
-| 최종 융합 프로젝트 |  |
+| 지중해 |  |
 
 </br>
 
