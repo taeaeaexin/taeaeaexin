@@ -17,8 +17,8 @@
 |Project|Detail|
 |:---:|:---:|
 | <img src="https://github.com/user-attachments/assets/edc8ae3e-82e7-4277-8319-d3ac1766d920" width="80" height="80"> </br> [Eurekagram](https://github.com/ureca-gram) | 사진과 짧은 글을 통해 서로의 일상을 공유하는 유레카 부트캠프 참여자들만을 위한 비공개 커뮤니티 피드형 SNS |
-| <img src="https://github.com/user-attachments/assets/69e81e5c-2baa-4bc5-8f4d-f95155688f9e" width="80" height="80"> </br> [Yoplait](https://github.com/ureca-u1moo2) | 통신 서비스 사용 고객을 대상으로 자연어 기반의 채팅을 통해, 소비성향을 파악하고 요금제를 추천해주는 AI 챗봇 |
-| <img src="https://github.com/user-attachments/assets/14518eac-fc5c-4c98-978c-d3957b727ada" width="80" height="80"> </br> [지중해](https://github.com/URECA-5CEAN) | 항해와 게이미피케이션 컨셉으로 지도 안의 혜택을 보물처럼 탐색하는 통신사 멤버십 제휴처 안내 지도 서비스 |
+| <img src="https://github.com/user-attachments/assets/69e81e5c-2baa-4bc5-8f4d-f95155688f9e" width="80" height="80"> </br> [Yoplait](https://github.com/taeaeaexin/URECA-Middle-Yoplait) | 통신 서비스 사용 고객을 대상으로 자연어 기반의 채팅을 통해, 소비성향을 파악하고 요금제를 추천해주는 AI 챗봇 |
+| <img src="https://github.com/user-attachments/assets/14518eac-fc5c-4c98-978c-d3957b727ada" width="80" height="80"> </br> [지중해](https://github.com/taeaeaexin/URECA-Final-JJH) | 항해와 게이미피케이션 컨셉으로 지도 안의 혜택을 보물처럼 탐색하는 통신사 멤버십 제휴처 안내 지도 서비스 |
 
 </br>
 
