@@ -1,4 +1,4 @@
-예비군을 왔는데 커밋은 해야하고 참 곤란하네요
+예비군 2일 차 집가고싶어요
 
 ## 🌐 Link
 [<img src="https://github.com/user-attachments/assets/bce45b47-75f6-4bdd-a1ca-6bb70377d154" width="55" height="55">](https://taesin-portfolio.notion.site/?source=copy_link) &nbsp;&nbsp;
