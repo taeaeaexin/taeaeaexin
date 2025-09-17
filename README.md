@@ -1,3 +1,5 @@
+예비군을 왔는데 커밋은 해야하고 참 곤란하네요
+
 ## 🌐 Link
 [<img src="https://github.com/user-attachments/assets/bce45b47-75f6-4bdd-a1ca-6bb70377d154" width="55" height="55">](https://taesin-portfolio.notion.site/?source=copy_link) &nbsp;&nbsp;
 [<img src="https://github.com/user-attachments/assets/23da5180-c39b-48f6-8f61-c5a3312dffd2" width="55" height="55">](https://gym-developer.tistory.com/) &nbsp;&nbsp;
