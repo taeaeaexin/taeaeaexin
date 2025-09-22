@@ -1,5 +1,6 @@
 ## 🌐 Link
 [<img src="https://github.com/user-attachments/assets/bce45b47-75f6-4bdd-a1ca-6bb70377d154" width="55" height="55">](https://taesin-portfolio.notion.site/?source=copy_link) &nbsp;&nbsp;
+[<img src="https://github.com/user-attachments/assets/2fd9e092-5161-4300-b01f-43a6e52026c3" width="55" height="55">](https://www.linkedin.com/in/taesin/) &nbsp;&nbsp;
 [<img src="https://github.com/user-attachments/assets/23da5180-c39b-48f6-8f61-c5a3312dffd2" width="55" height="55">](https://gym-developer.tistory.com/) &nbsp;&nbsp;
 [<img src="https://github.com/user-attachments/assets/94f89e0f-320d-4b5e-bbe3-bce51a82f1f1" width="55" height="55">](https://blog.naver.com/gym_developer) &nbsp;&nbsp;
 [<img src="https://github.com/user-attachments/assets/c19d8436-0333-493f-881d-d1ea3b7c830d" width="55" height="55">](mailto:kjk06119@gmail.com)
@@ -7,9 +8,8 @@
 </br>
 
 ## 👤 About Me
-한계를 넘는 **도전**을 즐기는 백엔드 개발자 문태신입니다.</br>
-준비보다 **실행**을, 계획보다 **완수**를 우선합니다.</br>
-틀에 갇히지 않고 부딪혀 나가며, 끝까지 해내는 집요함으로 결과를 만들어냅니다.
+Engineered an OCR–LLM agent system to auto-calculate membership benefits,  
+enhancing user convenience and reducing OCR costs by 99.7%
 
 </br>
 
@@ -25,8 +25,8 @@
 ## 🎓 Education
 |Experience|Detail|Period|
 |---|---|---|
-| **LG유플러스 SW아카데미 유레카 2기** | 백엔드 과정 | 2025.01 ~ 25.08 |
-| 국립한밭대학교 | 컴퓨터공학과 | 2018.03 ~ 25.02 |
+| LG U+ SW Academy URECA | Back-End Course | Jan 2025 ~ Aug 2025 |
+| Hanbat National University | B.S. in Computer Engineering | Mar 2018 ~ Feb 2025 |
 
 </br>
 
