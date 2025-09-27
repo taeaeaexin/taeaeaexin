@@ -8,17 +8,20 @@
 </br>
 
 ## 👤 About Me
-Engineered an OCR–LLM agent system to auto-calculate membership benefits,  
-enhancing user convenience and reducing OCR costs by 99.7%
+Backend developer specializing in Java and Spring Boot.
+Graduated from the Department of Computer Science and completed the LG U+ Backend Bootcamp.
+Ranked in the top 25% on Baekjoon Online Judge for algorithmic proficiency and hold the SQLD certification.
+Designed an OCR pipeline combining Google Vision and Gemini, reducing costs by 99.7%, and implemented a mobile phone plan comparison feature in the back office using RAG.
+Experienced in leading two team projects, with strong strengths in communication and collaboration.
 
 </br>
 
 ## 📽️ Projects
 |Project|Detail|
 |:---:|:---:|
-| <img src="https://github.com/user-attachments/assets/edc8ae3e-82e7-4277-8319-d3ac1766d920" width="80" height="80"> </br> [Eurekagram](https://github.com/ureca-gram) | 사진과 짧은 글을 통해 서로의 일상을 공유하는 유레카 부트캠프 참여자들만을 위한 비공개 커뮤니티 피드형 SNS |
-| <img src="https://github.com/user-attachments/assets/69e81e5c-2baa-4bc5-8f4d-f95155688f9e" width="80" height="80"> </br> [Yoplait](https://github.com/taeaeaexin/URECA-Middle-Yoplait) | 통신 서비스 사용 고객을 대상으로 자연어 기반의 채팅을 통해 소비성향을 파악하고 요금제를 추천해주는 AI 챗봇 |
-| <img src="https://github.com/user-attachments/assets/14518eac-fc5c-4c98-978c-d3957b727ada" width="80" height="80"> </br> [지중해](https://github.com/taeaeaexin/URECA-Final-JJH) | 항해와 게이미피케이션 컨셉으로 지도 안의 혜택을 보물처럼 탐색하는 통신사 멤버십 제휴처 안내 지도 서비스 |
+| <img src="https://github.com/user-attachments/assets/edc8ae3e-82e7-4277-8319-d3ac1766d920" width="80" height="80"> </br> [Eurekagram](https://github.com/ureca-gram) | A private community feed-style SNS exclusively for URECA Bootcamp participants, where participants share their daily lives through photos and short texts. |
+| <img src="https://github.com/user-attachments/assets/69e81e5c-2baa-4bc5-8f4d-f95155688f9e" width="80" height="80"> </br> [Yoplait](https://github.com/taeaeaexin/URECA-Middle-Yoplait) | An AI chatbot that identifies consumer preferences and recommends rate plans through natural language-based chat for telecommunication service users. |
+| <img src="https://github.com/user-attachments/assets/14518eac-fc5c-4c98-978c-d3957b727ada" width="80" height="80"> </br> [지중해](https://github.com/taeaeaexin/URECA-Final-JJH) | A map service that guides you through telecommunications membership partners, exploring the benefits within the map like treasures, with navigation and gamification concepts. |
 
 </br>
 
@@ -33,14 +36,14 @@ enhancing user convenience and reducing OCR costs by 99.7%
 ## 💻 Experience
 |Experience|Detail|Period|
 |---|---|---|
-| 2025 인디(inD)게임잼대전 | Unity와 C#을 활용, 물리 엔진 기반의 인터랙티브 게임 설계 및 구현 | 2025.07 ~ 25.07 |
-| 하계 말레이시아 인턴십 | 말레이시아 UCSI 대학교 인턴십 풀스택 과정 수행 | 2024.08 ~ 24.08 |
-| KT AICE Association | AI 역량 대학교육과정 수료 | 2024.07 ~ 24.07 |
-| 파이썬 백엔드 개발 직무부트캠프 | 기획부터 개발까지 Python 백엔드 개발 실무과정 수료 | 2024.09 ~ 24.10 |
-| IT직무 코딩테스트 | Python 모의 코딩테스트 및 IT직무 코딩테스트 과정 수료 | 2024.08 ~ 24.08 |
-| 2024 헥테온 세종 사이버보안 경진대회 | 포렌식 문제 분석, 파일 헤더와 확장자를 확인해 암호화된 파일을 복호화 | 2024.04 |
-| 2023 국제 드론해킹방어대회 | PX4 드론의 시리얼 포트로 연결된 거리 센서 코드 분석, 버퍼 오버플로우 보안 문제 해결 | 2023.11 |
-| 전기철도 연구실 | 문서 작업 및 논문 보조 | 2022.08 ~ 23.08|
+| 국방 AI 경진대회 |  | Sep 2025 ~ Present |
+| 2025 인디(inD)게임잼대전 | Unity와 C#을 활용, 물리 엔진 기반의 인터랙티브 게임 설계 및 구현 | Jul 2025 (3 days) |
+| 하계 말레이시아 인턴십 | 말레이시아 UCSI 대학교 인턴십 풀스택 과정 수행 | Aug 2024 (2 weeks) |
+| KT AICE Association | AI 역량 대학교육과정 수료 | Jul 2024 (3 weeks) |
+| 파이썬 백엔드 개발 직무부트캠프 | 기획부터 개발까지 Python 백엔드 개발 실무과정 수료 | Sep 2024 ~ Oct 2024 |
+| 2024 헥테온 세종 사이버보안 경진대회 | 포렌식 문제 분석, 파일 헤더와 확장자를 확인해 암호화된 파일을 복호화 | Apr 2024 |
+| 2023 국제 드론해킹방어대회 | PX4 드론의 시리얼 포트로 연결된 거리 센서 코드 분석, 버퍼 오버플로우 보안 문제 해결 | Nov 2023 |
+| 전기철도 연구실 | '신재생 연계 스마트 피쉬팜의 모니터링 요구사항 분석' 우수 논문상 | Aug 2022 ~ Aug 2023|
 
 </br>
 
