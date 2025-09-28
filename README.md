@@ -36,7 +36,7 @@ Experienced in leading two team projects, with strong strengths in communication
 ## 💻 Experience
 |Experience|Detail|Period|
 |---|---|---|
-| 국방 AI 경진대회 |  | Sep 2025 ~ Present |
+| 국방 AI 경진대회 | 예선 진행 중 | Sep 2025 ~ Present |
 | 2025 인디(inD)게임잼대전 | Unity와 C#을 활용, 물리 엔진 기반의 인터랙티브 게임 설계 및 구현 | Jul 2025 (3 days) |
 | 하계 말레이시아 인턴십 | 말레이시아 UCSI 대학교 인턴십 풀스택 과정 수행 | Aug 2024 (2 weeks) |
 | KT AICE Association | AI 역량 대학교육과정 수료 | Jul 2024 (3 weeks) |
