@@ -8,11 +8,11 @@
 </br>
 
 ## 👤 About Me
-Backend developer specializing in Java and Spring Boot.
-Graduated from the Department of Computer Science and completed the LG U+ Backend Bootcamp.
-Ranked in the top 25% on Baekjoon Online Judge for algorithmic proficiency and hold the SQLD certification.
-Designed an OCR pipeline combining Google Vision and Gemini, reducing costs by 99.7%, and implemented a mobile phone plan comparison feature in the back office using RAG.
-Experienced in leading two team projects, with strong strengths in communication and collaboration.
+Backend developer specializing in Java and Spring Boot.  
+Graduated from the Department of Computer Science and completed the LG U+ Backend Bootcamp.  
+Ranked in the top 25% on Baekjoon Online Judge for algorithmic proficiency and hold the SQLD certification.  
+Designed an OCR pipeline combining Google Vision and Gemini, reducing costs by 99.7%, and implemented a mobile phone plan comparison feature in the back office using RAG.  
+Experienced in leading two team projects, with strong strengths in communication and collaboration.  
 
 </br>
 
