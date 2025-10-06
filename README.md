@@ -19,9 +19,9 @@ Experienced in leading two team projects, with strong strengths in communication
 ## 📽️ Projects
 |Project|Detail|
 |:---:|:---:|
-| <img src="https://github.com/user-attachments/assets/edc8ae3e-82e7-4277-8319-d3ac1766d920" width="80" height="80"> </br> [Eurekagram](https://github.com/ureca-gram) | A private community feed-style SNS exclusively for URECA Bootcamp participants, where participants share their daily lives through photos and short texts. |
-| <img src="https://github.com/user-attachments/assets/69e81e5c-2baa-4bc5-8f4d-f95155688f9e" width="80" height="80"> </br> [Yoplait](https://github.com/taeaeaexin/URECA-Middle-Yoplait) | An AI chatbot that identifies consumer preferences and recommends rate plans through natural language-based chat for telecommunication service users. |
 | <img src="https://github.com/user-attachments/assets/14518eac-fc5c-4c98-978c-d3957b727ada" width="80" height="80"> </br> [Jijunghae](https://github.com/taeaeaexin/URECA-Final-JJH) | A map service that guides you through telecommunications membership partners, exploring the benefits within the map like treasures, with navigation and gamification concepts. |
+| <img src="https://github.com/user-attachments/assets/69e81e5c-2baa-4bc5-8f4d-f95155688f9e" width="80" height="80"> </br> [Yoplait](https://github.com/taeaeaexin/URECA-Middle-Yoplait) | An AI chatbot that identifies consumer preferences and recommends rate plans through natural language-based chat for telecommunication service users. |
+| <img src="https://github.com/user-attachments/assets/edc8ae3e-82e7-4277-8319-d3ac1766d920" width="80" height="80"> </br> [Eurekagram](https://github.com/ureca-gram) | A private community feed-style SNS exclusively for URECA Bootcamp participants, where participants share their daily lives through photos and short texts. |
 
 </br>
 
