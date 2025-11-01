@@ -1,18 +1,18 @@
-## 🌐 Link
-[<img src="https://github.com/user-attachments/assets/bce45b47-75f6-4bdd-a1ca-6bb70377d154" width="55" height="55">](https://taesin-portfolio.notion.site/?source=copy_link) &nbsp;&nbsp;
-[<img src="https://github.com/user-attachments/assets/2fd9e092-5161-4300-b01f-43a6e52026c3" width="55" height="55">](https://www.linkedin.com/in/taesin/) &nbsp;&nbsp;
-[<img src="https://github.com/user-attachments/assets/23da5180-c39b-48f6-8f61-c5a3312dffd2" width="55" height="55">](https://gym-developer.tistory.com/) &nbsp;&nbsp;
-[<img src="https://github.com/user-attachments/assets/c19d8436-0333-493f-881d-d1ea3b7c830d" width="55" height="55">](mailto:kjk06119@gmail.com)
+## 👤 About Me
+Backend developer specializing in Java and Spring Boot, and an AI developer using Python.  
+Built an OCR-LLM pipeline that reduced costs by 99.7%.  
+Ranked in the top 25% on Baekjoon Online Judge
+
 
 </br>
 
-## 👤 About Me
-Backend developer specializing in Java and Spring Boot.  
-Graduated from the Department of Computer Science and completed the LG U+ Backend Bootcamp.  
-Ranked in the top 25% on Baekjoon Online Judge for algorithmic proficiency and hold the SQLD certification. 
-   
-Designed an OCR pipeline combining Google Vision and Gemini, reducing costs by 99.7%, and implemented a mobile phone plan comparison feature in the back office using RAG.  
-Experienced in leading two team projects, with strong strengths in communication and collaboration.  
+## 🛠️ Stacks
+|Category|Strong|knowledgeable|
+|---|---|---|
+|**Language**| <img src="https://img.shields.io/badge/Java-F05032?style=flat-square&logo=coffeescript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> |
+|**Database**| <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> | <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/></a> |
+|**DevOps**| <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> |
+|**Infra**| <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a> <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/></a> |
 
 </br>
 
@@ -47,17 +47,6 @@ Experienced in leading two team projects, with strong strengths in communication
 
 </br>
 
-## 🛠️ Stacks
-|Category|Main Stack|Sub Stack|
-|---|---|---|
-|**Backend**| <img src="https://img.shields.io/badge/Java17-007396?style=flat-square&logo=coffeescript&logoColor=white"/></a> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></a> | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a> <img src="https://img.shields.io/badge/C%23-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a> <img src="https://img.shields.io/badge/NestJs-E0234E?style=flat-square&logo=nestjs&logoColor=white"/></a> |
-|**Database**| <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> | <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/></a> |
-|**DevOps**| <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a> |  |
-|**Infra**| <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a> <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/></a> |
-|**Tool**| <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/></a>  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/></a> <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white"/></a> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a> | <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black"/></a> |
-
-</br>
-
 ## 💳 Certificate
 |Certificate|Code|Organ|Period|
 |---|---|---|---|
@@ -74,3 +63,10 @@ Experienced in leading two team projects, with strong strengths in communication
   ## 🏆 Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjk06119)](https://solved.ac/kjk06119/) &nbsp;&nbsp;&nbsp; 
 [![Solved.ac Streak](http://mazandi.herokuapp.com/api?handle=kjk06119)](https://solved.ac/kjk06119/)
+
+
+## 🌐 More About
+[<img src="https://github.com/user-attachments/assets/bce45b47-75f6-4bdd-a1ca-6bb70377d154" width="55" height="55">](https://taesin-portfolio.notion.site/?source=copy_link) &nbsp;&nbsp;
+[<img src="https://github.com/user-attachments/assets/2fd9e092-5161-4300-b01f-43a6e52026c3" width="55" height="55">](https://www.linkedin.com/in/taesin/) &nbsp;&nbsp;
+[<img src="https://github.com/user-attachments/assets/23da5180-c39b-48f6-8f61-c5a3312dffd2" width="55" height="55">](https://gym-developer.tistory.com/) &nbsp;&nbsp;
+[<img src="https://github.com/user-attachments/assets/c19d8436-0333-493f-881d-d1ea3b7c830d" width="55" height="55">](mailto:kjk06119@gmail.com)
