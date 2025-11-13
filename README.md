@@ -64,6 +64,7 @@ Ranked in the top 25% on Baekjoon Online Judge
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjk06119)](https://solved.ac/kjk06119/) &nbsp;&nbsp;&nbsp; 
 [![Solved.ac Streak](http://mazandi.herokuapp.com/api?handle=kjk06119)](https://solved.ac/kjk06119/)
 
+</br>
 
 ## 🌐 More About
 [<img src="https://github.com/user-attachments/assets/bce45b47-75f6-4bdd-a1ca-6bb70377d154" width="55" height="55">](https://taesin-portfolio.notion.site/?source=copy_link) &nbsp;&nbsp;
