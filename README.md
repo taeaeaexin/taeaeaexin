@@ -25,9 +25,10 @@ Ranked in the top 25% on Baekjoon Online Judge
 
 </br>
 
-## 🎓 Education
+## 📑 History
 |Experience|Detail|Period|
 |---|---|---|
+| Company | Developer | Nov 2025 ~ Present |
 | LG U+ SW Academy URECA | Back-End Course | Jan 2025 ~ Aug 2025 |
 | Hanbat National University | B.S. in Computer Engineering | Mar 2018 ~ Feb 2025 |
 
@@ -36,7 +37,6 @@ Ranked in the top 25% on Baekjoon Online Judge
 ## 💻 Experience
 |Experience|Detail|Period|
 |---|---|---|
-| 국방 AI 경진대회 | 예선 진행 중 | Sep 2025 ~ Present |
 | 2025 인디(inD)게임잼대전 | Unity와 C#을 활용, 물리 엔진 기반의 인터랙티브 게임 설계 및 구현 | Jul 2025 (3 days) |
 | 하계 말레이시아 인턴십 | 말레이시아 UCSI 대학교 인턴십 풀스택 과정 수행 | Aug 2024 (2 weeks) |
 | KT AICE Association | AI 역량 대학교육과정 수료 | Jul 2024 (3 weeks) |
@@ -50,8 +50,8 @@ Ranked in the top 25% on Baekjoon Online Judge
 ## 💳 Certificate
 |Certificate|Code|Organ|Period|
 |---|---|---|---|
-| **SQLD** | SQLD-056016630 | 한국데이터산업진흥원 | 2025.04.04 |
 | **정보처리기사(필기)** | 실기 응시완료 (12.24 결과) | 한국산업인력공단 | 2025.02.15 |
+| **SQLD** | SQLD-056016630 | 한국데이터산업진흥원 | 2025.04.04 |
 | **컴퓨터활용능력 2급** | 12-K9-023276 | 고용노동부 | 2012.06.29 |
 | **GTQ그래픽기술자격 1급** | GA01G1205102246 | 한국생산성본부 | 2012.06.15 |
 | **정보기술자격(ITQ) 한글엑셀 A등급** | A001-2010111-012971 | 한국생산성본부 | 2011.10.27 |
