@@ -1,6 +1,6 @@
 ## 👤 About Me
-Backend developer specializing in Java and Spring Boot, and an AI developer using Python.  
-Built an OCR-LLM pipeline that reduced costs by 99.7%.  
+Backend developer specializing in Java and Spring Boot, and an AI developer using Python  
+Built an OCR-LLM pipeline that reduced costs by 99.7%  
 Ranked in the top 25% on Baekjoon Online Judge
 
 
