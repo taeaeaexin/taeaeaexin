@@ -28,7 +28,7 @@ Ranked in the top 25% on Baekjoon Online Judge
 ## 📑 History
 |Experience|Detail|Period|
 |---|---|---|
-| Company | Developer | Nov 2025 ~ Present |
+| OO Company | Developer | Nov 2025 ~ Present |
 | LG U+ SW Academy URECA | Back-End Course | Jan 2025 ~ Aug 2025 |
 | Hanbat National University | B.S. in Computer Engineering | Mar 2018 ~ Feb 2025 |
 
