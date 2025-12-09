@@ -1,5 +1,7 @@
 ## 👤 About Me
 Full-stack developer using JavaScript(Nexacro), C#(.NET), Java(Spring)
+I currently work as a full-stack developer focused on hospital ERP systems (HR/attendance management).
+My role covers both frontend and backend tasks, including Nexacro UI(JS) development and C#(.NET) based front-office modules, as well as Java Spring backend services.
 
 </br>
 
