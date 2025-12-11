@@ -1,6 +1,6 @@
 ## 👤 About Me
-I currently work as a full-stack developer focused on hospital ERP systems.
-My role covers both frontend and backend tasks, including Nexacro UI(JS) development and C#(.NET) based front-office modules, as well as Java Spring backend services.
+Full-stack developer in hospital ERP maintenance teams, specializing in HR.  
+Experienced in JS(Nexacro), C#(.NET) frontend and Java(Spring) backend.
 
 </br>
 
