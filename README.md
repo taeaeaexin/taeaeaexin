@@ -5,12 +5,24 @@ Experienced in JS (Nexacro), C# (.NET) frontend, and Java (Spring) backend.
 </br>
 
 ## 🛠️ Stacks
-|Category|Strong|knowledgeable|
-|---|---|---|
-|**Language**| <img src="https://img.shields.io/badge/Java-F05032?style=flat-square&logo=coffeescript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> |
-|**Database**| <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> | <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/></a> |
-|**DevOps**| <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> |
-|**Infra**| <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a> <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/></a> |
+<table>
+  <tr>
+    <td>Language</td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/369c47ff-ddae-422f-957e-b010bce094ae" width="55" height="55"> &nbsp;
+      <img src="https://github.com/user-attachments/assets/58cd3620-103c-4653-95cd-f84cf88662bf" width="55" height="55"> &nbsp;
+      <img src="https://github.com/user-attachments/assets/e02a8f3c-04a3-4291-8a98-40e6ac430567" width="55" height="55">
+    </td>
+  </tr>
+  <tr>
+    <td>Database</td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/bd067bac-3157-4748-a114-275ff71672fc" width="55" height="55"> &nbsp;
+      <img src="https://github.com/user-attachments/assets/ba3820a0-953a-4835-ba5c-bdc70e324167" width="55" height="55"> &nbsp;
+      <img src="https://github.com/user-attachments/assets/46ed82bc-4ba8-4c73-b418-18562c77705d" width="55" height="55"> &nbsp;
+    </td>
+  </tr>
+</table>
 
 </br>
 
@@ -38,7 +50,6 @@ Experienced in JS (Nexacro), C# (.NET) frontend, and Java (Spring) backend.
 | 2025 인디(inD)게임잼대전 | Unity와 C#을 활용, 물리 엔진 기반의 인터랙티브 게임 설계 및 구현 | Jul 2025 (3 days) |
 | 하계 말레이시아 인턴십 | 말레이시아 UCSI 대학교 인턴십 풀스택 과정 수행 | Aug 2024 (2 weeks) |
 | KT AICE Association | AI 역량 대학교육과정 수료 | Jul 2024 (3 weeks) |
-| 파이썬 백엔드 개발 직무부트캠프 | 기획부터 개발까지 Python 백엔드 개발 실무과정 수료 | Sep 2024 ~ Oct 2024 |
 | 2024 헥테온 세종 사이버보안 경진대회 | 포렌식 문제 분석, 파일 헤더와 확장자를 확인해 암호화된 파일을 복호화 | Apr 2024 |
 | 2023 국제 드론해킹방어대회 | PX4 드론의 시리얼 포트로 연결된 거리 센서 코드 분석, 버퍼 오버플로우 보안 문제 해결 | Nov 2023 |
 | 전기철도 연구실 | '신재생 연계 스마트 피쉬팜의 모니터링 요구사항 분석' 우수 논문상 | Aug 2022 ~ Aug 2023|
@@ -48,7 +59,7 @@ Experienced in JS (Nexacro), C# (.NET) frontend, and Java (Spring) backend.
 ## 💳 Certificate
 |Certificate|Code|Organ|Period|
 |---|---|---|---|
-| **정보처리기사(필기)** | 실기 응시완료 (12.24 결과) | 한국산업인력공단 | 2025.02.15 |
+| **정보처리기사(필기)** | 실기 응시완료 (251224 결과) | 한국산업인력공단 | 2025.02.15 |
 | **SQLD** | SQLD-056016630 | 한국데이터산업진흥원 | 2025.04.04 |
 | **컴퓨터활용능력 2급** | 12-K9-023276 | 고용노동부 | 2012.06.29 |
 | **GTQ그래픽기술자격 1급** | GA01G1205102246 | 한국생산성본부 | 2012.06.15 |
@@ -64,7 +75,7 @@ Experienced in JS (Nexacro), C# (.NET) frontend, and Java (Spring) backend.
 
 </br>
 
-## 🌐 More About
+## 🌐 More About Me
 [<img src="https://github.com/user-attachments/assets/bce45b47-75f6-4bdd-a1ca-6bb70377d154" width="55" height="55">](https://taesin-portfolio.notion.site/?source=copy_link) &nbsp;&nbsp;
 [<img src="https://github.com/user-attachments/assets/2fd9e092-5161-4300-b01f-43a6e52026c3" width="55" height="55">](https://www.linkedin.com/in/taesin/) &nbsp;&nbsp;
 [<img src="https://github.com/user-attachments/assets/23da5180-c39b-48f6-8f61-c5a3312dffd2" width="55" height="55">](https://gym-developer.tistory.com/) &nbsp;&nbsp;
