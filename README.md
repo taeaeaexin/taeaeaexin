@@ -1,6 +1,6 @@
 ## 👤 About Me
-Full-stack developer in hospital ERP maintenance teams, specializing in HR.  
-Experienced in JS(Nexacro), C#(.NET) frontend and Java(Spring) backend.
+Working as a full-stack developer in a hospital ERP maintenance team, specializing in HR.  
+Experienced in JS (Nexacro), C# (.NET) frontend, and Java (Spring) backend.
 
 </br>
 
