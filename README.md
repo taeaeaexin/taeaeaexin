@@ -34,19 +34,10 @@ Experienced in JS (Nexacro), C# (.NET) frontend, and Java (Spring) backend.
 
 </br>
 
-## 📽️ Projects
-|Project|Detail|
-|:---:|:---:|
-| <img src="https://github.com/user-attachments/assets/14518eac-fc5c-4c98-978c-d3957b727ada" width="80" height="80"> </br> [Jijunghae](https://github.com/taeaeaexin/URECA-Final-JJH) | A map service that guides you through telecommunications membership partners, exploring the benefits within the map like treasures, with navigation and gamification concepts. |
-| <img src="https://github.com/user-attachments/assets/69e81e5c-2baa-4bc5-8f4d-f95155688f9e" width="80" height="80"> </br> [Yoplait](https://github.com/taeaeaexin/URECA-Middle-Yoplait) | An AI chatbot that identifies consumer preferences and recommends rate plans through natural language-based chat for telecommunication service users. |
-| <img src="https://github.com/user-attachments/assets/edc8ae3e-82e7-4277-8319-d3ac1766d920" width="80" height="80"> </br> [Eurekagram](https://github.com/ureca-gram) | A private community feed-style SNS exclusively for URECA Bootcamp participants, where participants share their daily lives through photos and short texts. |
-
-</br>
-
 ## 📑 History
 |Experience|Detail|Period|
 |---|---|---|
-| MGL Korea | Developer | Nov 2025 ~ Present |
+| MGL Korea | FullStack Developer | Nov 2025 ~ Present |
 | LG U+ SW Academy URECA | Back-End Course | Jan 2025 ~ Aug 2025 |
 | Hanbat National University | B.S. in Computer Engineering | Mar 2018 ~ Feb 2025 |
 
@@ -55,11 +46,7 @@ Experienced in JS (Nexacro), C# (.NET) frontend, and Java (Spring) backend.
 ## 💻 Experience
 |Experience|Detail|Period|
 |---|---|---|
-| 2025 인디(inD)게임잼대전 | Unity와 C#을 활용, 물리 엔진 기반의 인터랙티브 게임 설계 및 구현 | Jul 2025 (3 days) |
 | 하계 말레이시아 인턴십 | 말레이시아 UCSI 대학교 인턴십 풀스택 과정 수행 | Aug 2024 (2 weeks) |
-| KT AICE Association | AI 역량 대학교육과정 수료 | Jul 2024 (3 weeks) |
-| 2024 헥테온 세종 사이버보안 경진대회 | 포렌식 문제 분석, 파일 헤더와 확장자를 확인해 암호화된 파일을 복호화 | Apr 2024 |
-| 2023 국제 드론해킹방어대회 | PX4 드론의 시리얼 포트로 연결된 거리 센서 코드 분석, 버퍼 오버플로우 보안 문제 해결 | Nov 2023 |
 | 전기철도 연구실 | '신재생 연계 스마트 피쉬팜의 모니터링 요구사항 분석' 우수 논문상 | Aug 2022 ~ Aug 2023|
 
 </br>
@@ -71,9 +58,7 @@ Experienced in JS (Nexacro), C# (.NET) frontend, and Java (Spring) backend.
 | **SQLD** | SQLD-056016630 | 한국데이터산업진흥원 | 2025.04.04 |
 | **컴퓨터활용능력 2급** | 12-K9-023276 | 고용노동부 | 2012.06.29 |
 | **GTQ그래픽기술자격 1급** | GA01G1205102246 | 한국생산성본부 | 2012.06.15 |
-| **정보기술자격(ITQ) 한글엑셀 A등급** | A001-2010111-012971 | 한국생산성본부 | 2011.10.27 |
-| **정보기술자격(ITQ) 한글파워포인트 A등급** | A001-2010111-012971 | 한국생산성본부 | 2011.08.25 |
-| **정보기술자격(ITQ) 아래한글 A등급** | A001-2010111-012971 | 한국생산성본부 | 2011.07.28 |
+| **정보기술자격(ITQ) OA Master** | A001-2010111-012971 | 한국생산성본부 | 2011.10.27 |
 
 </br>
 
