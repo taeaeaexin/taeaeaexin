@@ -15,11 +15,19 @@ Experienced in JS (Nexacro), C# (.NET) frontend, and Java (Spring) backend.
     </td>
   </tr>
   <tr>
+    <td>FrameWork</td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/48e93fb6-9973-4a58-8ab6-49dc0946aa0c" width="55" height="55"> &nbsp;
+      <img src="https://github.com/user-attachments/assets/2601d270-fe4d-4c01-a2de-f1f586be58f7" width="55" height="55"> &nbsp;
+      <img src="https://github.com/user-attachments/assets/b55fce67-f024-4064-b7a5-9e6f52640069" width="55" height="55">
+    </td>
+  </tr>
+  <tr>
     <td>Database</td>
     <td>
-      <img src="https://github.com/user-attachments/assets/bd067bac-3157-4748-a114-275ff71672fc" width="55" height="55"> &nbsp;
-      <img src="https://github.com/user-attachments/assets/ba3820a0-953a-4835-ba5c-bdc70e324167" width="55" height="55"> &nbsp;
-      <img src="https://github.com/user-attachments/assets/46ed82bc-4ba8-4c73-b418-18562c77705d" width="55" height="55"> &nbsp;
+      <img src="https://github.com/user-attachments/assets/a6b35707-c146-436b-9ec7-cd2007f89472" width="55" height="55"> &nbsp;
+      <img src="https://github.com/user-attachments/assets/2d88f994-2eb9-4259-ae62-a43a97df80fa" width="55" height="55"> &nbsp;
+      <img src="https://github.com/user-attachments/assets/77d8cdb7-0369-431a-a812-be78b69f3075" width="55" height="55">
     </td>
   </tr>
 </table>
