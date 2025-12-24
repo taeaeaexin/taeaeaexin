@@ -25,8 +25,8 @@ Experienced in JS (Nexacro), C# (.NET) frontend, and Java (Spring) backend.
   <tr>
     <td>Database</td>
     <td>
-      <img src="https://github.com/user-attachments/assets/a6b35707-c146-436b-9ec7-cd2007f89472" width="55" height="55"> &nbsp;
       <img src="https://github.com/user-attachments/assets/2d88f994-2eb9-4259-ae62-a43a97df80fa" width="55" height="55"> &nbsp;
+      <img src="https://github.com/user-attachments/assets/a6b35707-c146-436b-9ec7-cd2007f89472" width="55" height="55"> &nbsp;
       <img src="https://github.com/user-attachments/assets/77d8cdb7-0369-431a-a812-be78b69f3075" width="55" height="55">
     </td>
   </tr>
