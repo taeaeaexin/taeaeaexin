@@ -1,6 +1,6 @@
 ## 👤 About Me
-Working as a full-stack developer in a hospital ERP maintenance team, specializing in HR.  
-Experienced in JS (Nexacro), C# (.NET) frontend, and Java (Spring) backend.
+병원 전용 ERP/EMR 시스템을 개발하는 풀스택 개발자입니다.  
+여러 병원 고객사의 업무 시스템을 요구사항 분석부터 설계, 개발, 유지보수까지 직접 맡고 있습니다.
 
 </br>
 
@@ -35,19 +35,19 @@ Experienced in JS (Nexacro), C# (.NET) frontend, and Java (Spring) backend.
 </br>
 
 ## 📑 History
-|Experience|Detail|Period|
+|이름|상세|기간|
 |---|---|---|
-| MGL Korea | FullStack Developer | Nov 2025 ~ Present |
-| LG U+ SW Academy URECA | Back-End Course | Jan 2025 ~ Aug 2025 |
-| Hanbat National University | B.S. in Computer Engineering | Mar 2018 ~ Feb 2025 |
+| MGL Korea | 풀스택 개발자 | 2025.11 ~ Present |
+| LG유플러스 URECA | 백엔드개발자 코스 | 2025.01 ~ 2025.08 |
+| 국립한밭대학교 | 컴퓨터공학과 | 2018.03 ~ 2025.02 |
 
 </br>
 
 ## 💻 Experience
 |Experience|Detail|Period|
 |---|---|---|
-| 하계 말레이시아 인턴십 | 말레이시아 UCSI 대학교 인턴십 풀스택 과정 수행 | Aug 2024 (2 weeks) |
-| 전기철도 연구실 | '신재생 연계 스마트 피쉬팜의 모니터링 요구사항 분석' 우수 논문상 | Aug 2022 ~ Aug 2023|
+| 하계 말레이시아 인턴십 | 말레이시아 UCSI 대학교 인턴십 풀스택 과정 수행 | 2024.08(2주) |
+| 전기철도 연구실 | '신재생 연계 스마트 피쉬팜의 모니터링 요구사항 분석' 우수 논문상 | 2022.08 ~ 2023.08|
 
 </br>
 
