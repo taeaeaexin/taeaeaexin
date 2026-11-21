@@ -4,6 +4,10 @@
 
 </br>
 
+## 🗂️ Projects
+
+</br>
+
 ## 🛠️ Stacks
 <table>
   <tr>
