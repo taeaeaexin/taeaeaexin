@@ -14,36 +14,6 @@
 
 </br>
 
-## 🛠️ Stacks
-<table>
-  <tr>
-    <td>Language</td>
-    <td>
-      <img src="https://github.com/user-attachments/assets/369c47ff-ddae-422f-957e-b010bce094ae" width="55" height="55"> &nbsp;
-      <img src="https://github.com/user-attachments/assets/58cd3620-103c-4653-95cd-f84cf88662bf" width="55" height="55"> &nbsp;
-      <img src="https://github.com/user-attachments/assets/e02a8f3c-04a3-4291-8a98-40e6ac430567" width="55" height="55">
-    </td>
-  </tr>
-  <tr>
-    <td>FrameWork</td>
-    <td>
-      <img src="https://github.com/user-attachments/assets/48e93fb6-9973-4a58-8ab6-49dc0946aa0c" width="55" height="55"> &nbsp;
-      <img src="https://github.com/user-attachments/assets/2601d270-fe4d-4c01-a2de-f1f586be58f7" width="55" height="55"> &nbsp;
-      <img src="https://github.com/user-attachments/assets/b55fce67-f024-4064-b7a5-9e6f52640069" width="55" height="55">
-    </td>
-  </tr>
-  <tr>
-    <td>Database</td>
-    <td>
-      <img src="https://github.com/user-attachments/assets/2d88f994-2eb9-4259-ae62-a43a97df80fa" width="55" height="55"> &nbsp;
-      <img src="https://github.com/user-attachments/assets/a6b35707-c146-436b-9ec7-cd2007f89472" width="55" height="55"> &nbsp;
-      <img src="https://github.com/user-attachments/assets/77d8cdb7-0369-431a-a812-be78b69f3075" width="55" height="55">
-    </td>
-  </tr>
-</table>
-
-</br>
-
 ## 📑 History
 |이름|상세|기간|
 |---|---|---|
