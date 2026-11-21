@@ -5,12 +5,12 @@
 </br>
 
 ## 🗂️ Projects
-|이름|링크|설명|스택|
+|이름|설명|링크|스택|
 |---|---|---|---|
-| [**개발자 키우기**](https://github.com/taeaeaexin/code-idle) | [플레이하기](https://taeaeaexin.github.io/code-idle/) | 신입에서 CTO까지! 인생역전 개발자 키우기 | JavaScript, Canvas, PWA, 앱인토스 SDK |
-| [**coinmax**](https://github.com/taeaeaexin/coinmax) | [수익확인](https://github.com/taeaeaexin/coinmax#-성과) | 비트코인 오토 트레이더 | Python, asyncio, WebSocket, DuckDB |
-| **차곡차곡** | [chagokchagok.kr](https://chagokchagok.kr) | 오늘 만들어 오늘 오픈하는 홈페이지 | Next.js, TypeScript, SQLite, Cloudflare |
-| [**부여로**](https://github.com/taeaeaexin/buyeogo) | [buyeogo.pages.dev](https://buyeogo.pages.dev/) | 부여군 홍보 사이트 | React, TypeScript, Vite, Tailwind |
+| [**개발자 키우기**](https://github.com/taeaeaexin/code-idle) | 신입에서 CTO까지! 인생역전 개발자 키우기 | [플레이하기](https://taeaeaexin.github.io/code-idle/) | JavaScript, Canvas, PWA, 앱인토스 SDK |
+| [**coinmax**](https://github.com/taeaeaexin/coinmax) | 비트코인 오토 트레이더 | [수익확인](https://github.com/taeaeaexin/coinmax#-성과) | Python, asyncio, WebSocket, DuckDB |
+| **차곡차곡** | 오늘 만들어 오늘 오픈하는 홈페이지 | [chagokchagok.kr](https://chagokchagok.kr) | Next.js, TypeScript, SQLite, Cloudflare |
+| [**부여로**](https://github.com/taeaeaexin/buyeogo) | 부여군 홍보 사이트 | [buyeogo.pages.dev](https://buyeogo.pages.dev/) | React, TypeScript, Vite, Tailwind |
 
 </br>
 
