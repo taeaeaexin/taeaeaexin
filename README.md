@@ -5,6 +5,12 @@
 </br>
 
 ## 🗂️ Projects
+|이름|링크|설명|스택|
+|---|---|---|---|
+| [**개발자 키우기**](https://github.com/taeaeaexin/code-idle) | [플레이하기](https://taeaeaexin.github.io/code-idle/) | 신입에서 CTO까지! 인생역전 개발자 키우기. 코드 치고 버그 잡고 이직하며 IPO까지 가는 방치형 클리커 게임 | JavaScript, Canvas, PWA, 앱인토스 SDK |
+| [**coinmax**](https://github.com/taeaeaexin/coinmax) | [실시간 성과](https://github.com/taeaeaexin/coinmax#-성과) | 자는 동안에도 24시간 돌아가는 비트코인 초단타 자동매매. 수익률을 매일 자동으로 공개 | Python, asyncio, WebSocket, DuckDB |
+| **차곡차곡** | [chagokchagok.kr](https://chagokchagok.kr) | 오늘 만들어 오늘 오픈하는 홈페이지. 섹션만 골라 담으면 내 사이트 완성 | Next.js, TypeScript, SQLite, Cloudflare |
+| [**부여로**](https://github.com/taeaeaexin/buyeogo) | [buyeogo.pages.dev](https://buyeogo.pages.dev/) | 걸어서 만나는 부여. 여행 코스부터 명소까지 한 페이지에 담은 부여군 홍보 사이트 | React, TypeScript, Vite, Tailwind |
 
 </br>
 
